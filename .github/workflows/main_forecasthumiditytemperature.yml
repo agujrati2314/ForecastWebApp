@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ForecastHumidityTemperature'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6D5092A817FF4434BF8F14FCF6155AE5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EBF8B1AA4502495EA2A8FB18A1272B8B }}
